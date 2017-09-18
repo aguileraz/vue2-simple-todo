@@ -1,4 +1,4 @@
-# simple-todo
+# Vue2 + Vuex2 - simple-todo
 
 > A Vue.js project
 
