@@ -1,7 +1,7 @@
 {
   "name": "simple-todo",
   "description": "A Vue.js project",
-  "author": "Paul Adams",
+  "author": "Carlos Aguilera",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
